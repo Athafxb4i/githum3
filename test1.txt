@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>HTML code</title>
+    </head>
+    <body>
+
+    <h1>All about fishes!</h1>
+    
+    <img src="C:\Users\Mohammed Althaf I\Desktop\cookbook\pexels-photo-128756.jpeg" alt="fish with swim in water" width="500"> 
+    
+    <h3>Why fish make great aquatic</h3>
+    
+    <ul>
+        <li>Fish are cold-blooded!</li>
+        <li>gill-bearing aquatic organisms that lack limbs</li>
+        <li>Fish have great diversity!</li>
+        <li>fishes belong to the kingdom Animalia</li>
+    </ul>
+    
+    <h3>Top 3 most famous fishes</h3>
+    
+    <ol>
+        <li><strong>Salmon</strong></li>
+        <img src="C:\Users\Mohammed Althaf I\Desktop\cookbook\download1.webp" alt="fish with swim in water" width="300">
+        <li><strong>Mackerel</strong></li>
+        <img src="C:\Users\Mohammed Althaf I\Downloads\download.jpg" alt="fish with swim in water" width="300">
+        <li><strong>Sardine</strong></li>
+        <img src="C:\Users\Mohammed Althaf I\Downloads\images.jpg" alt="fish with swim in water" width="300">
+    </ol>
+    
+    <h2>Basic info</h2>
+    
+    <p>Fish is an aquatic animals, they are mostly found in the sea, rivers, lakes, and oceans. Nowadays, people hunt fish for their daily bread, making business from it. </p>
+    
+    <p> There are various kinds of fish, be they small or large sizes and different shapes.-<strong>Some people keep them at home as a sign of fortune</strong></p>
+    <p>A fish (pl.: fish or fishes) is an aquatic, anamniotic, gill-bearing vertebrate animal with swimming fins and a hard skull, but lacking limbs with digits. Fish can be grouped into the more basal jawless fish and the more common jawed fish, the latter including all living cartilaginous and bony fish, as well as the extinct placoderms and acanthodians. Most fish are cold-blooded, their body temperature varying with the surrounding water, though some large active swimmers like white shark and tuna can hold a higher core temperature. Many fish can communicate acoustically with each other, such as during courtship displays.
+
+        The earliest fish appeared during the Cambrian as small filter feeders; they continued to evolve through the Paleozoic, diversifying into many forms. The earliest fish with dedicated respiratory gills and paired fins, the ostracoderms, had heavy bony plates that served as protective exoskeletons against invertebrate predators. The first fish with jaws, the placoderms, appeared in the Silurian and greatly diversified during the Devonian, the "Age of Fishes".</p>
+    
+    <h2><a href="https://w.wiki/3WZq">MORE ABOUT FISHES</a></h2>
+
+    </body>
+</html>
